@@ -23,4 +23,4 @@ I'm studing to became a Fullstack
 
 #### Connect with me
 - 👉 Send me an email: mgdigrazia@gmailcom
-- 👉 Go to my GitHub: https://github.com/gabydigrazia
+- 👉 Go to my Linkedin: https://www.linkedin.com/in/gaby-di-grazia/
