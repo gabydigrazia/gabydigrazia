@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Gaby Di Grazia! 👋
 
-<!--
-**gabydigrazia/gabydigrazia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm a Frontend Developer with experience building and maintaining responsive web applications in fast-paced, collaborative environments. 
 
-Here are some ideas to get you started:
+:smiley: Passionate about learning. I like learning about technology, design, branding, and marketing. I ❤️ working on projects that challenge me to continue learning new technologies and improving my skills as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: I am attracted to the startups' culture because they are constantly growing, facing new problems every day that require innovative solutions and teamwork. Keeping you in a continuous learning rhythm.
+
+#### Proficient in:
+- :heavy_check_mark: Angular
+- :heavy_check_mark: Javascript
+- :heavy_check_mark: Typescript
+- :heavy_check_mark: Html
+- :heavy_check_mark: CSS/Sass
+- :heavy_check_mark: Others: Bootstrap, Git, Agile Methodologies
+
+#### Currently learning:
+I'm studing to became a Fullstack
+- :telescope: Improving Javascript (Frontend and Backend)
+- :telescope: Node.js
+- :telescope: React
+- :telescope: MongoDB
+
+#### Connect with me
+- 👉 Send me an email: mgdigrazia@gmailcom
+- 👉 Go to my GitHub: https://github.com/gabydigrazia
