@@ -7,17 +7,24 @@
 :rocket: I am attracted to the startups' culture because they are constantly growing, facing new problems every day that require innovative solutions and teamwork. Keeping you in a continuous learning rhythm.
 
 #### Proficient in:
-- :heavy_check_mark: Angular
-- :heavy_check_mark: Javascript
-- :heavy_check_mark: Typescript
-- :heavy_check_mark: Html
-- :heavy_check_mark: CSS/Sass
-- :heavy_check_mark: Others: RxJS, npm, Bootstrap, Git, Agile Methodologies
+-  :heavy_check_mark: Angular
+-  :heavy_check_mark: Javascript
+-  :heavy_check_mark: Typescript
+-  :heavy_check_mark: Html
+-  :heavy_check_mark: CSS/Sass
+-  :heavy_check_mark: Others: RxJS, npm, Bootstrap, Git, Agile Methodologies
 
 #### Currently learning:
-- :telescope: Improving Javascript
-- :telescope: React
+-  :telescope: Improving Javascript
+-  :telescope: React
+
+#### Soft Skills:
+-  ⭐️ Teamwork and communication
+-  ⭐️ Attention to detail
+-  ⭐️ Proactive
+-  ⭐️ Problem-solving
+-  ⭐️ Responsibility
 
 #### Connect with me
-- 👉 Send me an email: mgdigrazia@gmailcom
-- 👉 Go to my Linkedin: https://www.linkedin.com/in/gaby-di-grazia/
+-  👉 Send me an email: mgdigrazia@gmailcom
+-  👉 Go to my Linkedin: https://www.linkedin.com/in/gaby-di-grazia/
