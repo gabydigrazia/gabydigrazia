@@ -15,7 +15,6 @@
 - :heavy_check_mark: Others: RxJS, npm, Bootstrap, Git, Agile Methodologies
 
 #### Currently learning:
-I'm studing to became a Fullstack
 - :telescope: Improving Javascript
 - :telescope: React
 
