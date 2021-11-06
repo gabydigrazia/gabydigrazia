@@ -12,14 +12,12 @@
 - :heavy_check_mark: Typescript
 - :heavy_check_mark: Html
 - :heavy_check_mark: CSS/Sass
-- :heavy_check_mark: Others: Bootstrap, Git, Agile Methodologies
+- :heavy_check_mark: Others: RxJS, npm, Bootstrap, Git, Agile Methodologies
 
 #### Currently learning:
 I'm studing to became a Fullstack
-- :telescope: Improving Javascript (Frontend and Backend)
-- :telescope: Node.js
+- :telescope: Improving Javascript
 - :telescope: React
-- :telescope: MongoDB
 
 #### Connect with me
 - 👉 Send me an email: mgdigrazia@gmailcom
