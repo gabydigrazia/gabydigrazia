@@ -8,11 +8,12 @@
 
 #### Proficient in:
 -  :heavy_check_mark: Angular
+-  :heavy_check_mark: Vue.js
 -  :heavy_check_mark: Javascript
 -  :heavy_check_mark: Typescript
 -  :heavy_check_mark: Html
 -  :heavy_check_mark: CSS/Sass
--  :heavy_check_mark: Others: RxJS, npm, Bootstrap, Git, Agile Methodologies
+-  :heavy_check_mark: Others: RxJS, npm, Bootstrap, Primevue, Angular Material, Git, Agile Methodologies
 
 #### Currently learning:
 -  :telescope: Improving Javascript
